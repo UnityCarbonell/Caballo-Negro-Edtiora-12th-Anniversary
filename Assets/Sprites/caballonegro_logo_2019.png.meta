@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 70a8c01f7c2cb294f8307a35e40b1cb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4384281809183250319
+    second: caballonegro_logo_2019_0
+  - first:
+      213: 2386024457075514766
+    second: caballonegro_logo_2019_1
+  - first:
+      213: 4498424640944931661
+    second: caballonegro_logo_2019_2
+  - first:
+      213: 5297273098487028408
+    second: caballonegro_logo_2019_3
+  - first:
+      213: -1567721642415560417
+    second: caballonegro_logo_2019_4
+  - first:
+      213: 1702390882833507367
+    second: caballonegro_logo_2019_5
+  - first:
+      213: -2663934081591392420
+    second: caballonegro_logo_2019_6
+  - first:
+      213: -4415059005473752903
+    second: caballonegro_logo_2019_7
+  - first:
+      213: 5430141151874448114
+    second: caballonegro_logo_2019_8
+  - first:
+      213: 83455719210021437
+    second: caballonegro_logo_2019_9
+  - first:
+      213: -7075345001607001768
+    second: caballonegro_logo_2019_10
+  - first:
+      213: 6954335795003733230
+    second: caballonegro_logo_2019_11
+  - first:
+      213: 6408464121274712673
+    second: caballonegro_logo_2019_12
+  - first:
+      213: 4634933377196415631
+    second: caballonegro_logo_2019_13
+  - first:
+      213: 1652224544094226565
+    second: caballonegro_logo_2019_14
+  - first:
+      213: 6813218479909349634
+    second: caballonegro_logo_2019_15
+  - first:
+      213: -8947256881040942240
+    second: caballonegro_logo_2019_16
+  - first:
+      213: -5915478567752706654
+    second: caballonegro_logo_2019_17
+  - first:
+      213: -5403189694912719232
+    second: caballonegro_logo_2019_18
+  - first:
+      213: 7241817496514409428
+    second: caballonegro_logo_2019_19
+  - first:
+      213: 8372940109874638752
+    second: caballonegro_logo_2019_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 927
+        width: 1076
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871397931918dc30800000000000000
+      internalID: 4384281809183250319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 645
+        width: 136
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d516d1a9cdc1120800000000000000
+      internalID: 2386024457075514766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 645
+        width: 153
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430364906d9d6e30800000000000000
+      internalID: 4498424640944931661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 645
+        width: 162
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba5d8121d1b38940800000000000000
+      internalID: 5297273098487028408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 645
+        width: 154
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19e02de8755e3ae0800000000000000
+      internalID: -1567721642415560417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 650
+        width: 59
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a7200d7b10a710800000000000000
+      internalID: 1702390882833507367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_6
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 650
+        width: 59
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5740b1211ec70bd0800000000000000
+      internalID: -2663934081591392420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_7
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 645
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f85cf93f8ab2c0800000000000000
+      internalID: -4415059005473752903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 438
+        width: 169
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf4b58b9cbb5b40800000000000000
+      internalID: 5430141151874448114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 434
+        width: 147
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32fcf1d88e782100800000000000000
+      internalID: 83455719210021437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_10
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 370
+        width: 157
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85901e335335fcd90800000000000000
+      internalID: -7075345001607001768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_11
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 438
+        width: 110
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43bf55f83c28060800000000000000
+      internalID: 6954335795003733230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_12
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 434
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624a603a207fe850800000000000000
+      internalID: 6408464121274712673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 191
+        width: 96
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad4618957925040800000000000000
+      internalID: 4634933377196415631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 194
+        width: 57
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209af180c1a6d8e50800000000000000
+      internalID: 6813218479909349634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 191
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b92637545f4d380800000000000000
+      internalID: -8947256881040942240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_17
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 194
+        width: 40
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d9ac859ff7eda0800000000000000
+      internalID: -5915478567752706654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_18
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 191
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861dac89930405b0800000000000000
+      internalID: -5403189694912719232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_19
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 194
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d333ffe4aa108460800000000000000
+      internalID: 7241817496514409428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caballonegro_logo_2019_20
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 191
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa2be0ba8a23470800000000000000
+      internalID: 8372940109874638752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
